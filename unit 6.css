@@ -1,0 +1,48 @@
+main {
+  text-align: center;
+  border: 3px solid #000;
+  background-color: #E8BB46;
+  color: black;
+  font-size: 30px;
+  color: darkred;
+}
+
+article {
+  text-align: center;
+}
+
+.dadjoke {
+  margin: auto;
+}
+
+.8 {
+  text-align: center;
+}
+
+section {
+  border: 2px solid #000;
+  font-size: 30px;
+  color: darkred;
+  background-color: #E8BB46;
+}
+
+footer {
+  text-align: center;
+  border: 5px solid #000;
+  font-size: 15px;
+  color: darkred;
+  background-color: #E8BB46;
+}
+
+header {
+  text-align: center;
+}
+
+#titlecontainer {
+  font-size: 50px;
+  color: darkred;
+}
+
+body {
+  background-image: url("https://t4.ftcdn.net/jpg/01/09/70/43/240_F_109704300_rYF228387pXTSv7lnsX9JEnyPukqrIJZ.jpg");
+}
